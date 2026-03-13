@@ -1,0 +1,35 @@
+[
+  {
+    "employeeId": "E001",
+    "fullName": "Ang Yi Hui",
+    "email": "yihui@mail.com",
+    "phone": "0123456",
+    "department": "IT",
+    "position": "System Administrator",
+    "salary": 3000.0,
+    "leaveDays": 14,
+    "status": "APPROVED"
+  },
+  {
+    "employeeId": "E002",
+    "fullName": "Adlina",
+    "email": "adlina@mail.com",
+    "phone": "0126678",
+    "department": "Human Resources",
+    "position": "Director",
+    "salary": 3000.0,
+    "leaveDays": 14,
+    "status": "APPROVED"
+  },
+  {
+    "employeeId": "E003",
+    "fullName": "Reehan",
+    "email": "reehan@mail.com",
+    "phone": "129083",
+    "department": "Finance",
+    "position": "Financial Analyst",
+    "salary": 3000.0,
+    "leaveDays": 13,
+    "status": "APPROVED"
+  }
+]
